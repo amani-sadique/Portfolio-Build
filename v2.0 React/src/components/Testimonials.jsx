@@ -1,22 +1,22 @@
 const testimonials = [
   {
-    initials: 'GM',
-    name: 'Grant McCabe',
-    role: 'CEO, Glory League',
+      initials: 'VB',
+    name: 'Vatthana Boulom',
+    role: 'Full Stack Engineer, Seen Ventures',
     quote:
-      'During her time with us, Amani demonstrated strong technical capability and was able to understand our platform and systems quickly. Amani was easy to work with and contributed positively to the team. She was cooperative, dependable, and willing to assist where needed.',
+      'I worked alongside Amani during her internship at Seen Ventures, where she served as UX/UI Designer. Amani showed a solid eye for design and put real care into her UI work. More notably, she made good progress over the course of the internship, she was open to feedback, applied it, and showed initiative by exploring front-end development alongside her design work. Her foundation and genuine eagerness to learn really stood out. She was a pleasure to work with and brought a great attitude to the team every day. I\'d happily recommend her as a promising designer, well worth investing in.',
   },
-  {
-    initials: 'KC',
-    name: 'Kim Choe',
-    role: 'Digital News Editor, Newshub',
+  { initials: 'AY',
+    name: 'Anastasiya Yeuseyeva',
+    role: 'UX UI Designer, Seen Ventures',
     quote:
-      'Amani showed a commendable willingness to learn when she interned at Newshub. She asked thoughtful questions, was responsive to feedback and pitched solid story ideas. She is able to write articles that deliver key information accurately whilst showing creativity and individual style.',
+      'I had such a great experience working with Amani as our UX designer on an e-commerce project. I was really impressed by how consistently and effectively she did her work. She mastered every aspect of the user experience, from research and information architecture to the full Figma workflows. She kept exploring new tools and approaches, always ready to adapt and refine the visual direction to meet the project\'s needs. Her contributions truly elevated the visual design, and she\'s a designer who always gets things done with dedication. I highly recommend her professionalism and personal qualities and look forward to collaborating with her.',
+    
   },
   {
     initials: 'PS',
     name: 'Phoebe Suo',
-    role: 'Full Stack Dev, Mission Ready',
+    role: 'Full Stack Developer, Mission Ready',
     quote:
       "One thing that stood out to me was Amani's ability to combine technical skills with thoughtful design. Her coding projects were not only functional, but also visually polished and user-friendly, showing strong attention to detail and creativity. I would highly recommend her to any team or organisation.",
   },

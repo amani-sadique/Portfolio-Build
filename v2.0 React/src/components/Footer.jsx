@@ -13,8 +13,7 @@ export default function Footer() {
               />
             </a>
             <p className="footer__tagline">
-              UX/UI designer and front-end developer, based in Aotearoa,
-              designing for a global audience.
+              Formerly a journalist. Now I edit interfaces instead of copy.
             </p>
           </div>
 
@@ -49,9 +48,9 @@ export default function Footer() {
         <div className="footer__bottom">
           <p className="footer__legal">© 2026 Amani Sadique</p>
           <p className="footer__legal">
-            Built by{' '}
+            Business Site{' '}
             <a href="https://thefreewebsiteguys.com/" target="_blank" rel="noreferrer" className="footer__builder-link">
-              The Free Website Guys
+              Insert link here
             </a>
           </p>
         </div>

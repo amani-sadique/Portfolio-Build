@@ -14,15 +14,13 @@ export default function Hero() {
 
       <div className="hero__content">
         <span className="hero__eyebrow">
-          UX & UI Designer · Front-End Developer · Auckland → Melbourne
+          UX & UI Design · Front-End Development · Manchester → Auckland → Melbourne
         </span>
         <h1 className="hero__title">
           Amani <span className="italic accent-vibrant">Sadique</span>
         </h1>
         <p className="hero__subtitle">
-          Bridging journalism, design, and code to craft digital experiences
-          that are accessible, considered, and easy to understand, not just
-          easy to look at.
+          An editor's eye for confusion. A designer's eye for clarity. I bridge journalism, design, and code to craft digital experiences that are accessible, considered, and easy to understand, not just easy to look at.
         </p>
         <div className="hero__actions">
           <a href="#work" className="btn btn--primary">

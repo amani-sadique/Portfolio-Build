@@ -7,7 +7,7 @@ export default function About() {
         <div className="about__portrait-col">
           <div className="about__portrait-wrap">
             <img
-              src="https://amanisadique.tfwgsite.com/__l5e/assets-v1/4e52dc02-b64e-429b-a6db-4b60e1d286fc/amani-portrait.png"
+             src="ASSETS/amani-portrait.png"
               alt="Amani Sadique"
               width="1000"
               height="1250"

@@ -849,18 +849,18 @@ textarea {
   width: 100%;
   max-width: 24rem;
   margin: 0 auto;
-}
-
-.about__portrait-wrap::after {
-  content: '';
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  border-radius: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: var(--surface);
 }
 
 .about__portrait {
+  display: block;
   width: 100%;
-  aspect-ratio: 4 / 5;
+  height: 100%;
   object-fit: cover;
-  border-radius: 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.1);
   filter: grayscale(1);
   transition: all 1s;
 }
