@@ -17,7 +17,7 @@ export default function Nav() {
         <div className="nav__inner">
           <a href="#home" className="nav__logo-link">
             <img
-              src="https://amanisadique.tfwgsite.com/__l5e/assets-v1/d8df62a8-8cb7-45e9-beea-a74979adedbc/logo-nav.png"
+              src="/ASSETS/logo-nav.png"
               alt="Amani Sadique"
               className="nav__logo"
             />

@@ -2,13 +2,27 @@ export default function Hero() {
   return (
     <header id="home" className="hero">
       <div className="hero__bg" aria-hidden="true">
+        <div className="hero__dot-grid" />
         <div className="hero__blob hero__blob--1" />
         <div className="hero__blob hero__blob--2" />
         <div className="hero__blob hero__blob--3" />
-        <div className="hero__blob hero__blob--4" />
-        <div className="hero__card hero__card--1" />
+        <div className="hero__card hero__card--1">
+          <div className="hero__card-bar hero__card-bar--wide" />
+          <div className="hero__card-bar hero__card-bar--narrow" />
+        </div>
         <div className="hero__card hero__card--2" />
-        <div className="hero__card hero__card--3" />
+        <div className="hero__card hero__card--4" />
+        <div className="hero__card hero__card--3">
+          <div className="hero__card-browser-bar">
+            <span />
+            <span />
+            <span />
+          </div>
+        </div>
+        <div className="hero__card hero__card--5" />
+        <div className="hero__blob hero__blob--5" />
+        <div className="hero__blob hero__blob--6" />
+        <div className="hero__blob hero__blob--4" />
         <div className="hero__scrim" />
       </div>
 

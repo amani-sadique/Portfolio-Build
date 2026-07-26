@@ -11,6 +11,7 @@ const columns = [
     ),
     items: [
       'User research & interviewing',
+      'Heuristic evaluation & competitor analysis',
       'Wireframing & prototyping',
       'Information architecture',
       'Design systems',
@@ -35,6 +36,7 @@ const columns = [
       'MySQL · Git workflows',
       'Component-driven UI',
       'Responsive & accessible',
+      'Vercel deployment'
     ],
   },
   {
@@ -47,12 +49,12 @@ const columns = [
       </svg>
     ),
     items: [
-      'Heuristic evaluation',
+      'Manual & regression testing',
+      'API testing (Postman)',
+      'Root-cause analysis & bug triage',
       'Usability testing',
-      'Competitor analysis',
-      'Copywriting & editing',
       'Agile / Scrum delivery',
-      'Journalistic storytelling',
+      'Playwright',
     ],
   },
 ];
@@ -65,13 +67,13 @@ export default function Capabilities() {
         <div className="capabilities__header">
           <div>
             <span className="eyebrow eyebrow--on-accent">(02) Capabilities</span>
-            <h2 className="heading-lg on-accent">
-              A hybrid toolkit for the <span className="italic">whole build.</span>
+            <h2 className="heading-lg">
+              A hybrid toolkit for the <span className="italic on-accent">whole build.</span>
             </h2>
           </div>
           <p className="capabilities__intro">
             From first user interview to final component. I move between
-            research, interface, and code without dropping the thread.
+            research, interface, code, and testing without dropping the thread.
           </p>
         </div>
 

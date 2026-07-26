@@ -7,7 +7,7 @@ export default function Footer() {
           <div className="footer__brand">
             <a href="#home" className="footer__logo-link">
               <img
-                src="https://amanisadique.tfwgsite.com/__l5e/assets-v1/dba39a70-a2f0-4c13-b297-94530981bf83/logo-removebg-preview.png"
+                src="/ASSETS/logo-footer.png"
                 alt="Amani Sadique"
                 className="footer__logo"
               />
