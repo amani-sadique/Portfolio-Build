@@ -21,7 +21,7 @@ export default function Footer() {
             <div className="footer__col-label">Explore</div>
             <a href="#about" className="footer__link">About</a>
             <a href="#work" className="footer__link">Work</a>
-            <a href="#testimonials" className="footer__link">Voices</a>
+            <a href="#testimonials" className="footer__link">Testimonials</a>
             <a href="#contact" className="footer__link">Contact</a>
           </div>
 
@@ -48,10 +48,10 @@ export default function Footer() {
         <div className="footer__bottom">
           <p className="footer__legal">© 2026 Amani Sadique</p>
           <p className="footer__legal">
-            Business Site{' '}
+            {/* Business Site{' '}
             <a href="https://thefreewebsiteguys.com/" target="_blank" rel="noreferrer" className="footer__builder-link">
               Insert link here
-            </a>
+            </a> */}
           </p>
         </div>
       </div>

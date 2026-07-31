@@ -1,4 +1,4 @@
-const tags = ['Journalism', 'UX Research', 'Full-Stack Dev', 'Design Systems', 'Accessibility'];
+const tags = ['UI Design', 'UX Research', 'Front-End Dev', 'QA Testing', 'Accessibility'];
 
 export default function About() {
   return (
