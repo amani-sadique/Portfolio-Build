@@ -3,8 +3,8 @@ import ProjectCard from './ProjectCard.jsx';
 
 const filters = [
   { value: 'all', label: 'All' },
-  { value: 'ux', label: 'UX & UI' },
-  { value: 'fullstack', label: 'Full-Stack' },
+  { value: 'ux', label: 'design' },
+  { value: 'fullstack', label: 'code' },
 ];
 
 export default function Work({ projects, onOpenProject }) {

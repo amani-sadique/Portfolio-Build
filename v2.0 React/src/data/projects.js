@@ -81,8 +81,7 @@ const projects = [
     stack: 'React, HTML, CSS, JavaScript, MySQL, Postman',
     duration: '6 Weeks',
     readTime: '4 min',
-    image:
-      'https://framerusercontent.com/images/eEqVEvtAEcZ52UXwAnjJGVLyIyc.png?width=1440&height=779', // Needs to be replaced with a desktop mockup .png
+     image: '/ASSETS/levelup-cover.png',
     summary:
       'Building an educational platform end-to-end: homepage and login modal, MySQL back-end integration, and API testing with Postman.',
     overview:
@@ -96,7 +95,7 @@ const projects = [
       'Seamless integration between front-end and back-end components',
     ],
     challenge:
-      'One of the key challenges faced during the project was ensuring a smooth and secure flow of user data between the front-end and back-end. To overcome this, I collaborated closely with the back-end developers to design a robust API architecture and implement proper data validation and error handling. Thorough testing using Postman helped identify and resolve any issues, resulting in a seamless user experience.',
+  'Ensuring the security and integrity of user data between the front-end and back-end was a key challenge. I applied best practices in API design, implemented input validation to prevent SQL injection attacks, and collaborated with the team to develop a robust API authentication mechanism using protected routes. Thorough testing with Postman validated the effectiveness of these security measures. By prioritising security throughout the development process, we delivered a high-quality, reliable, and secure platform that users could trust.',
     outcome:
       'The primary outcome was a fully functional authentication flow, allowing users to successfully create an account and log in to access the learning content. By connecting the front-end and back-end components, I helped create a cohesive user experience that encouraged engagement with the platform.',
     // liveLink: 'Vercel link',
