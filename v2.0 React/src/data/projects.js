@@ -41,7 +41,7 @@ const projects = [
     research:
       "Conducted interviews and usability testing with a representative sample of users to identify pain points and uncover key usage patterns.",
     process:
-      'Developed wireframes and high-fidelity prototypes for mobile and desktop, exploring intuitive filtering and layout options. Conducted multiple rounds of usability testing, refining the design based on user feedback to optimize task completion and ease of use.',
+      'Developed wireframes and high-fidelity prototypes for mobile and desktop, exploring intuitive filtering and layout options. Conducted multiple rounds of usability testing, refining the design based on user feedback to optimise task completion and ease of use.',
     solution:
       'The redesigned station finder offered an enhanced user experience, with key features including: [PLACEHOLDER FOR SCREENSHOTS]',
     outcome:

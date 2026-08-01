@@ -28,7 +28,7 @@ export default function Hero() {
 
       <div className="hero__content">
         <span className="hero__eyebrow">
-          UX & UI Design · Front-End Development · Manchester → Auckland → Melbourne
+          UX UI Design · Front-End Development · Manchester → Auckland → Melbourne
         </span>
         <h1 className="hero__title">
           Amani <span className="italic accent-vibrant">Sadique</span>
