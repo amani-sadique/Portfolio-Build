@@ -1,9 +1,4 @@
-// Placeholder data — two templates: 'ux' follows a standard UX/UI
-// case-study structure (problem → research → process → solution → outcome);
-// 'fullstack' follows a technical project structure (overview → architecture
-// → features → challenge → outcome). Replace every placeholder string with
-// your own content. Entries 1 and 3 are the design/build sides of the same
-// self-directed project — pairIndex links them so the modal can cross-link.
+
 
 const projects = [
   {
@@ -87,13 +82,13 @@ const projects = [
     duration: '6 Weeks',
     readTime: '4 min',
     image:
-      'https://framerusercontent.com/images/eEqVEvtAEcZ52UXwAnjJGVLyIyc.png?width=1440&height=779',
+      'https://framerusercontent.com/images/eEqVEvtAEcZ52UXwAnjJGVLyIyc.png?width=1440&height=779', // Needs to be replaced with a desktop mockup .png
     summary:
       'Building an educational platform end-to-end: homepage and login modal, MySQL back-end integration, and API testing with Postman.',
     overview:
       'Level Up Works was a full-stack development project completed in collaboration with four other developers, focused on building a functioning educational platform. My role involved developing the homepage and login/sign-up modal, connecting user input from the front-end to the back-end via a MySQL database, and testing APIs with Postman.',
     architecture:
-      'The project utilized React for the front-end, allowing for modular and reusable UI components. The back-end was powered by MySQL, providing a robust and scalable database solution. Postman was used to thoroughly test and debug API endpoints, ensuring smooth communication between the front-end and back-end.',
+      'The project utilised React for the front-end, allowing for modular and reusable UI components. The back-end was powered by MySQL, providing a robust and scalable database solution. Postman was used to thoroughly test and debug API endpoints, ensuring smooth communication between the front-end and back-end.',
     features: [
       'Responsive homepage design with engaging visuals and clear calls-to-action',
       'User-friendly login and sign-up modal with form validation and error handling',
