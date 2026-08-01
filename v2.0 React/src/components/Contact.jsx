@@ -21,9 +21,8 @@ export default function Contact() {
             <span className="italic accent-vibrant">meaningful.</span>
           </h2>
           <p className="contact__lede">
-            Open to graduate, entry-level, and career-transition roles across
-            UX/UI design, front-end development, QA, and digital product.
-            Send a note and I'll reply.
+            Open to graduate and entry-level opportunities across
+            UX/UI design, front-end development, QA, and digital accessibility.
           </p>
           <div className="contact__status-block">
             <div className="contact__status-label">Currently</div>
