@@ -28,7 +28,7 @@ export default function About() {
             <p>
               I'm a UX/UI designer with practical software development
               experience, coming from a multidisciplinary background in
-              journalism, user support, web development, and design.
+              journalism, IT support, web development, and design.
             </p>
             <p>
               That mix shapes how I work: I bridge communication, design, and
@@ -37,9 +37,8 @@ export default function About() {
               easy to look at.
             </p>
             <p>
-              Currently based in New Zealand and open to graduate,
-              entry-level, and career-transition opportunities. Migrating to
-              Melbourne soon.
+              Currently based in New Zealand and open to graduate and 
+              entry-level opportunities.
             </p>
           </div>
 

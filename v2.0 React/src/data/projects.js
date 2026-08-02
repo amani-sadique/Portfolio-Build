@@ -8,21 +8,26 @@ const projects = [
     client: 'Glowbal',
     industry: 'HVAC Wholesale',
     duration: '10 Weeks',
-    readTime: '6 min',
+    readTime: '5 min',
     image:
       '/ASSETS/trade-warehouse-cover.png',
     summary:
-      '10-week placement designing a B2B/B2C e-commerce portal for an HVAC and trades supplies distributor, replacing a manual phone and email order process.',
+      '10-week project designing a B2B/B2C e-commerce portal for an HVAC and trades supplies distributor, replacing a manual phone and email order process.',
     problem:
-      'The client needed a user-friendly e-commerce platform that catered to both trade and retail customers. The key UX challenge was to create an intuitive interface that accommodated the unique needs and digital habits of trade buyers while remaining accessible to a broader consumer audience.',
+      'Glowbal had no e-commerce presence. Every order was placed by phone or email, with no way for trade or retail customers to self-serve online. The key UX challenge was to design an intuitive platform that fit the specific digital habits of trade buyers, while remaining accessible to a broader retail audience.',
     research:
-      "Conducted research to understand tradie's digital behaviors and preferences, informing design decisions around usability and accessibility. Analysed the UX of established NZ trade retailers to identify industry best practices and opportunities for differentiation.",
+      "Conducted research to understand tradies' digital behaviours and preferences, informing design decisions around usability and accessibility. Analysed the UX of established NZ trade retailers to identify industry best practices and opportunities for differentiation. Contributed the UX section of the Business Requirements Document, translating stakeholder input and workshop findings into structured requirements. Ran ongoing syncs with the client to pressure-test assumptions, refine scope, and establish their USP as they moved from a manual order process toward owning Trade Warehouse as their own product.",
     process:
-      'Developed a comprehensive design system including a WCAG AA/AAA-compliant colour palette, typography system, and Material Symbols icon library. Created wireframes and high-fidelity Figma prototypes to communicate design intent and gather feedback from stakeholders.',
+      'Developed a comprehensive design system including a WCAG AA/AAA-compliant colour palette, typography system, and Material Symbols icon library. After finalising the user flow, created wireframes and high-fidelity Figma prototypes to communicate design intent and gather feedback from stakeholders.',
     solution:
-      'The final design delivered an intuitive, accessibility-focused interface tailored to the needs of both trade and retail users. Key screens included: [PLACEHOLDER FOR SCREENSHOTS]',
+      'The final design delivered an intuitive, accessibility-focused experience across the full purchase journey, not just the happy path. Alongside core screens like the homepage, product listing, and product detail pages, I designed key edge states, including a mixed-vendor cart and a declined payment flow, so trade and retail users had clear guidance even when things didn\'t go smoothly.',
+    screenshots: [
+      { src: '/ASSETS/trade-warehouse-home-page.png', alt: 'Trade Warehouse homepage' },
+      { src: '/ASSETS/trade-warehouse-pp.png', alt: 'Trade Warehouse product listing page' },
+      { src: '/ASSETS/trade-warehouse-pdp.png', alt: 'Trade Warehouse product detail page' },
+    ],
     outcome:
-      "I collaborated closely with project leads, developers, and clients throughout the multi-sprint delivery process. The project concluded with a suite of handover deliverables including a UX/UI Handover Document, Design System PDF, and client-facing showcase presentation. The client's investment in the next phase of development demonstrated their satisfaction with the design outcomes.",
+      "I collaborated closely with project leads, developers, and clients throughout the multi-sprint delivery process. The project concluded with a suite of handover deliverables including a UX/UI Handover Document, Design System PDF, and client-facing showcase presentation. The client's decision to purchase the MYOB developer package before the project concluded signalled their investment and confidence moving into the next phase of development.",
     prototypeLink: 'https://www.figma.com/design/9KPAV3o0uWfEnn3eOpXtiG/Trade-Warehouse?node-id=0-1&p=f',
   },
   {

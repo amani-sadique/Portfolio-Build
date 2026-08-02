@@ -95,6 +95,15 @@ export default function ProjectModal({ projects, index, onClose, onNavigate }) {
               <BodySection heading="Research &amp; Discovery" text={project.research} />
               <BodySection heading="Process" text={project.process} />
               <BodySection heading="Final Solution" text={project.solution} />
+              {project.screenshots && (
+                <div className="modal__screenshots">
+                  {project.screenshots.map((shot) => (
+                    <div key={shot.src} className="modal__screenshot">
+                      <img src={shot.src} alt={shot.alt} className="modal__screenshot-image" />
+                    </div>
+                  ))}
+                </div>
+              )}
               <BodySection heading="Outcome &amp; Impact" text={project.outcome} />
               <div className="modal__links">
                 <a href={project.prototypeLink} target="_blank" rel="noreferrer" className="modal__link">
