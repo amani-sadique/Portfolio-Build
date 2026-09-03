@@ -50,7 +50,7 @@ export default function Footer() {
           <p className="footer__legal">
             Business Site{' '}
             <a href="https://studio-sadique.vercel.app" target="_blank" rel="noreferrer" className="footer__builder-link">
-              Insert link here
+                Studio Sadique
             </a>
           </p>
         </div>
