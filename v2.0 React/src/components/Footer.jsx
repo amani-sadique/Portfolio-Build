@@ -48,10 +48,10 @@ export default function Footer() {
         <div className="footer__bottom">
           <p className="footer__legal">© 2026 Amani Sadique</p>
           <p className="footer__legal">
-            {/* Business Site{' '}
-            <a href="https://thefreewebsiteguys.com/" target="_blank" rel="noreferrer" className="footer__builder-link">
+            Business Site{' '}
+            <a href="https://studio-sadique.vercel.app" target="_blank" rel="noreferrer" className="footer__builder-link">
               Insert link here
-            </a> */}
+            </a>
           </p>
         </div>
       </div>
