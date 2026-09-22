@@ -28,7 +28,10 @@ export default function Hero() {
 
       <div className="hero__content">
         <span className="hero__eyebrow">
-          UX UI Design · Front-End Development · Manchester → Auckland → Melbourne
+          UX UI Designer · Web Developer ·
+          <br />
+          I don't just fix what's broken, I find out why it broke
+          {/* Manchester → Auckland → Melbourne */}
         </span>
         <h1 className="hero__title">
           Amani <span className="italic accent-vibrant">Sadique</span>
