@@ -28,7 +28,7 @@ export default function Contact() {
         {state.succeeded ? (
           <div className="contact__form">
             <p className="contact__status-msg">
-              Thanks for reaching out — your message has been sent. I'll get back to you soon.
+              Thanks for reaching out! Your message has been sent, and I'll get back to you as soon as I can.
             </p>
           </div>
         ) : (
