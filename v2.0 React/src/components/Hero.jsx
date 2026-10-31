@@ -28,9 +28,8 @@ export default function Hero() {
 
       <div className="hero__content">
         <span className="hero__eyebrow">
-          UX UI Designer · Web Developer ·
+          Technology Graduate · UX UI Design · Web Development
           <br />
-          I don't just fix what's broken, I find out why it broke
           {/* Manchester → Auckland → Melbourne */}
         </span>
         <h1 className="hero__title">
